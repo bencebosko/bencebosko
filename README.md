@@ -1,1 +1,1 @@
-Hi, im Bence Boskó, senior fullstack engineer based in Hungary. The purpose of this account is to share practice/side projects with anyone interested in coding.
+Hi, im Bence Boskó, senior fullstack engineer based in Hungary. The purpose of this account is to share practice/side projects with anyone interested in coding. Feel free to contact me on LinkedIn: www.linkedin.com/in/bencebosko
